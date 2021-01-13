@@ -38,7 +38,7 @@ button:active {
 .slider {
     width: 512px;
     height: 512px;
-    border: 2px solid black;
+    border: 1px solid lightgray;
     margin: 30px auto;
     overflow: hidden;
 }
@@ -46,7 +46,6 @@ button:active {
 .slider-line {
     width: 2048px;
     height: 512px;
-    background: orangered;
     display: flex;
     position: relative;
     left: 0;
